@@ -1,0 +1,23 @@
+{
+  "name": "luannh-cozrum",
+  "version": "1.0.0",
+  "description": "<!--\r **luannh-cozrum/luannh-cozrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luannh-cozrum/luannh-cozrum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luannh-cozrum/luannh-cozrum/issues"
+  },
+  "homepage": "https://github.com/luannh-cozrum/luannh-cozrum#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "fs": "0.0.1-security"
+  }
+}
